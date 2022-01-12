@@ -1,4 +1,4 @@
-class migu-music-dl < Formula
+class MiguMusicDl < Formula
   include Language::Python::Virtualenv
 
   desc "Migu music downloader"

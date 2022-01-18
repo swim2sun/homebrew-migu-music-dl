@@ -3,8 +3,8 @@ class MiguMusicDl < Formula
 
   desc "Migu music downloader"
   homepage "https://github.com/swim2sun/migu-music-dl"
-  url "https://files.pythonhosted.org/packages/fd/92/d84cc6b7f12cf03a6777972a697ca711865c5f186e4ef25cf1b4f4002cb3/migu-music-dl-0.1.1.tar.gz"
-  sha256 "9042d0f141e75a15934fa90ff2de3f88f751e203c4ce65965d97249e5e0f642d"
+  url "https://files.pythonhosted.org/packages/91/24/e64de0f064494b0a8516929ff6bf4cd23d58fc583c0a0c93b448db57edd5/migu-music-dl-0.1.2.tar.gz"
+  sha256 "f3e8ee6a3046cb489182178e06e40b0b93e2ccbd58d23c897d05c980c48c6fd5"
   head "https://github.com/swim2sun/migu-music-dl.git"
 
   # TODO: If you're submitting an existing package, make sure you include your
